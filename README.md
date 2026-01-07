@@ -4,4 +4,4 @@ This repository will store:
 -My learning notes
 - My beginner projects
 - My progress
- More coming soon
+<br> More coming soon
